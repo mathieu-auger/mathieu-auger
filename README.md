@@ -24,11 +24,21 @@
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-  <!---
-  
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
+  <!---
+  📧 mathieu.auger@laplateforme.io
+  !--->
+  <p align="row">
+  📧 mathieu.auger@laplateforme.io
+</p>
+  
+- ⚡ Fun fact: ...
+<!---
+je suis le pro des blagues useless
+!--->
+<p align="row">
+  je suis un pro des blagues useless
+</p>
 <!---
 mathieu-auger/mathieu-auger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
